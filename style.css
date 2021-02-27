@@ -1,0 +1,13 @@
+.content{
+  padding-left: 50px;
+}
+
+.small-img-row{
+  display:flex;
+  justify-content:space-between;
+}
+
+.small-img-col{
+  flex-basis:20%;
+  cursor: pointer;
+}
